@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Thank you for registering your complaint!</h1>
-    <p>Your complaint has been successfully registered.</p>
+    <p>Your complaint has been successfullyi registered.</p>
     <p>We will review it and get back to you as soon as possible.</p>
     
     <!-- Button to navigate back to index.html# -->
